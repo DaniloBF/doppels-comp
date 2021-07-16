@@ -7,7 +7,7 @@
 	"minimumCoreVersion": "0.7.10",
 	"compatibleCoreVersion": "0.8.8",
 	"url": "https://github.com/DaniloBF/doppels-comp/tree/master",
-	"download": "https://github.com/DaniloBF/doppels-comp/archive/master.zip",
+	"download": "https://github.com/DaniloBF/doppels-comp/archive/refs/heads/main.zip",
 	"system": "dnd5e",
 	"manifest": "https://raw.githubusercontent.com/DaniloBF/doppels-comp/master/module.json",
 	"packs": [
