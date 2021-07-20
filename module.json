@@ -3,7 +3,7 @@
 	"title": "Doppel's 5e Compilation",
 	"description": "Adds some feats, two new tiers of weapons, including new primitive firearms and another tier of armors.",
 	"author": "DoppelBF",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"minimumCoreVersion": "0.7.10",
 	"compatibleCoreVersion": "0.8.8",
 	"url": "https://github.com/DaniloBF/doppels-comp/tree/master",
@@ -64,7 +64,7 @@
 			"name": "large-ranged-weapons",
 			"label": "(Doppel's) 08 - Large Ranged Weapons",
 			"system": "dnd5e",
-			"path": "packs/large-Ranged-weapons.db",
+			"path": "packs/large-ranged-weapons.db",
 			"entity": "Item"
 		},
 		{
@@ -93,6 +93,13 @@
 			"label": "(Doppel's) 12 - Armors",
 			"system": "dnd5e",
 			"path": "packs/armors.db",
+			"entity": "Item"
+		},
+		{
+			"name": "firearms-scoots",
+			"label": "(Doppel's) 13 - SCOOT'S GUNS MURICA FUCK YEA",
+			"system": "dnd5e",
+			"path": "packs/firearms-scoots.db",
 			"entity": "Item"
 		}
 	]
