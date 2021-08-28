@@ -3,103 +3,96 @@
 	"title": "Doppel's 5e Compilation",
 	"description": "Adds some feats, two new tiers of weapons, including new primitive firearms and another tier of armors.",
 	"author": "DoppelBF",
-	"version": "1.0.4",
+	"version": "1.1.0",
 	"minimumCoreVersion": "0.7.10",
-	"compatibleCoreVersion": "0.8.8",
+	"compatibleCoreVersion": "0.8.9",
 	"url": "https://github.com/DaniloBF/doppels-comp/tree/master",
 	"download": "https://github.com/DaniloBF/doppels-comp/archive/refs/heads/main.zip",
 	"system": "dnd5e",
 	"manifest": "https://raw.githubusercontent.com/DaniloBF/doppels-comp/master/module.json",
 	"packs": [
 		{
-			"name": "feats",
-			"label": "(Doppel's) 01 - Feats",
-			"system": "dnd5e",
-			"path": "packs/feats.db",
-			"entity": "Item"
-		},
-		{
 			"name": "about",
-			"label": "(Doppel's) 02 - About Weapons",
+			"label": "(Doppel's) E01 - About Weapons",
 			"system": "dnd5e",
 			"path": "packs/about.db",
 			"entity": "Item"
 		},
 		{
 			"name": "simple-melee-weapons",
-			"label": "(Doppel's) 03 - Simple Melee Weapons",
+			"label": "(Doppel's) E02 - Simple Melee Weapons",
 			"system": "dnd5e",
 			"path": "packs/simple-melee-weapons.db",
 			"entity": "Item"
 		},
 		{
 			"name": "simple-ranged-weapons",
-			"label": "(Doppel's) 04 - Simple Ranged Weapons",
+			"label": "(Doppel's) E03 - Simple Ranged Weapons",
 			"system": "dnd5e",
 			"path": "packs/simple-ranged-weapons.db",
 			"entity": "Item"
 		},
 		{
 			"name": "martial-melee-weapons",
-			"label": "(Doppel's) 05 - Martial Melee Weapons",
+			"label": "(Doppel's) E04 - Martial Melee Weapons",
 			"system": "dnd5e",
 			"path": "packs/martial-melee-weapons.db",
 			"entity": "Item"
 		},
 		{
 			"name": "martial-ranged-weapons",
-			"label": "(Doppel's) 06 - Martial Ranged Weapons",
+			"label": "(Doppel's) E05 - Martial Ranged Weapons",
 			"system": "dnd5e",
 			"path": "packs/martial-ranged-weapons.db",
 			"entity": "Item"
 		},
 		{
 			"name": "large-melee-weapons",
-			"label": "(Doppel's) 07 - Large Melee Weapons",
+			"label": "(Doppel's) E06 - Large Melee Weapons",
 			"system": "dnd5e",
 			"path": "packs/large-melee-weapons.db",
 			"entity": "Item"
 		},
 		{
 			"name": "large-ranged-weapons",
-			"label": "(Doppel's) 08 - Large Ranged Weapons",
+			"label": "(Doppel's) E07 - Large Ranged Weapons",
 			"system": "dnd5e",
 			"path": "packs/large-ranged-weapons.db",
 			"entity": "Item"
 		},
 		{
 			"name": "oversized-melee-weapons",
-			"label": "(Doppel's) 09 - Oversized Melee Weapons",
+			"label": "(Doppel's) E08 - Oversized Melee Weapons",
 			"system": "dnd5e",
 			"path": "packs/oversized-melee-weapons.db",
 			"entity": "Item"
 		},
 		{
 			"name": "oversized-ranged-weapons",
-			"label": "(Doppel's) 10 - Oversized Ranged Weapons",
+			"label": "(Doppel's) E09 - Oversized Ranged Weapons",
 			"system": "dnd5e",
 			"path": "packs/oversized-ranged-weapons.db",
 			"entity": "Item"
 		},
 		{
 			"name": "firearms",
-			"label": "(Doppel's) 11 - Firearms",
+			"label": "(Doppel's) E10 - Firearms",
 			"system": "dnd5e",
 			"path": "packs/firearms.db",
 			"entity": "Item"
 		},
 		{
-			"name": "armors",
-			"label": "(Doppel's) 12 - Armors",
+			"name": "firearms-scoots",
+			"label": "(Doppel's) E11 - SCOOT'S GUNS MURICA FUCK YEA",
 			"system": "dnd5e",
-			"path": "packs/armors.db",
+			"path": "packs/firearms-scoots.db",
 			"entity": "Item"
 		},
 		{
-			"name": "firearms-scoots",
-			"label": "(Doppel's) 13 - SCOOT'S GUNS MURICA FUCK YEA",
+			"name": "armors",
+			"label": "(Doppel's) E12 - Armors",
 			"system": "dnd5e",
-			"path": "packs/firearms-scoots.db",
+			"path": "packs/armors.db",
 			"entity": "Item"
 		}
 	]
