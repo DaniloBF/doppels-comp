@@ -3,7 +3,7 @@
 	"title": "Doppel's 5e Compilation",
 	"description": "Adds some feats, two new tiers of weapons, including new primitive firearms and another tier of armors.",
 	"author": "DoppelBF",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"minimumCoreVersion": "0.7.10",
 	"compatibleCoreVersion": "0.8.9",
 	"url": "https://github.com/DaniloBF/doppels-comp/tree/master",
@@ -93,6 +93,27 @@
 			"label": "(Doppel's) E12 - Armors",
 			"system": "dnd5e",
 			"path": "packs/armors.db",
+			"entity": "Item"
+		},
+		{
+			"name": "physical-combat-feats",
+			"label": "(Doppel's) F01 - Physical Combat Feats",
+			"system": "dnd5e",
+			"path": "packs/physical-combat-feats.db",
+			"entity": "Item"
+		},
+		{
+			"name": "spellcasting-feats",
+			"label": "(Doppel's) F02 - Spellcasting Feats",
+			"system": "dnd5e",
+			"path": "packs/spellcasting-feats.db",
+			"entity": "Item"
+		},
+		{
+			"name": "other-feats",
+			"label": "(Doppel's) F03 - Other Feats",
+			"system": "dnd5e",
+			"path": "packs/other-feats.db",
 			"entity": "Item"
 		}
 	]
